@@ -1,0 +1,49 @@
+body
+{
+    text-align: center;
+}
+h2
+{
+   font-size: 25px;
+   font-weight: bold;
+   color: rgb(79, 170, 255);
+   font-family: monospace;
+   letter-spacing: 2px;
+}
+
+.names
+{
+   font-size: 21px;
+   margin: 20px;
+   color: white;
+}
+.test_img_res{
+   padding: 50px;
+   width: 85%;
+   border: 4px solid rgb(255, 157, 0);
+   border-radius: 10px;
+   background-color: #47a0ff;
+   box-shadow: 5px 5px 5px rgb(243, 218, 159);
+}
+hr{
+   width: 50%;
+}
+.comp_lbl{
+   border: 1px solid white;
+   border-radius: 3px;
+   font-size: 15px;
+   padding: 5px;
+   margin: 25px;
+}
+.imgs{
+   width: 200px;
+   height: 120px;
+   margin: 20px;
+   border-radius: 5px;
+   border: 2px solid rgb(255, 166, 0);
+}
+#logo{
+   height: 50px;
+   width: 50px;
+   margin-left: 5px;
+}
